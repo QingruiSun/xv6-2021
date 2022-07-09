@@ -1,0 +1,6 @@
+1: a0-a7 register contain argument. 13 is in a2 register.
+2: no call to the function f, g. compliler inline them.
+3: auipc means add upper immediate to program counter. so the address of printf is 0x1536 + 0x34.
+4: the next instruction address of jalr.
+5: "He110 World"
+6: the value of a2 register.
